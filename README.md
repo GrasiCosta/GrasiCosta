@@ -32,7 +32,6 @@
 </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/GrasiCosta/count.svg" /></p>
 
-
-![snake gif](https://github.com/GrasiCosta/GrasiCosta/blob/output/github-contribution-grid-snake.svg
+![snake gif](https://github.com/GrasiCosta/GrasiCosta/blob/output/github-contribution-grid-snake.svg)
 
 
